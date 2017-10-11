@@ -37,11 +37,11 @@
     "async": "^2.4.1",
     "debug": "^2.6.8",
     "lodash": "^4.17.4",
-    "meshblu-config": "^8.0.1",
-    "meshblu-connector-cli": "^1.1.6",
     "node-hid": "^0.5.4",
     "path-exists": "^3.0.0",
-    "ws": "^3.0.0"
+    "ws": "^3.0.0",
+    "azure-iot-device": "^1.1.19",
+    "azure-iot-device-mqtt": "^1.2.0"
   },
   "meshbluConnector": {
     "githubSlug": "octoblu/meshblu-connector-powermate"
